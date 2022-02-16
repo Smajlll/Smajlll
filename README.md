@@ -5,7 +5,7 @@
 - 🌱 Studuji základní školu
 - ❓ Rád pomůžu
 - 📫 Můžete mi napsat na: Osobní Mail: vit.smolik2@gmail.com Pracovní Mail: smolikv@newtly.eu Discord: Smajl#3337
-- 😄 Pronouns: He/Him On
+- 😄 Pronouns: He/Him
 - ⚡ Zajímavý Fakt: Dýchám
 
 <!--
