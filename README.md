@@ -7,6 +7,7 @@
 - 📫 Můžete mi napsat na: Osobní Mail: vit.smolik2@gmail.com Pracovní Mail: smolikv@newtly.eu Discord: Smajl#3337
 - 😄 Pronouns: He/Him
 - ⚡ Zajímavý Fakt: Dýchám
+- 📚 Python, JS, C-Lang
 
 <!--
 **Smajlll/Smajlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
